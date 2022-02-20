@@ -8,6 +8,7 @@ body {
 .container {
   height: 100%;
   width: 100%;
+  font-size: 35px;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -15,6 +16,8 @@ body {
 .text {
   font-weight: 100;
   font-size: 28px;
+  font-size: 2em;
+  font-weight: bold;
   color: #fafafa;
 }
 .dud {
